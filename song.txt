@@ -2,6 +2,10 @@ My first day is awesome!
 
 The second day was super!!!
 
+<<<<<<< HEAD
 Third update is done.
 
 4-th row added !
+=======
+Third update is done.
+>>>>>>> e105c4319fcff746b98fd5e8d6744945d3ba6b09
